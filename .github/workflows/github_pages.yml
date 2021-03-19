@@ -26,7 +26,7 @@ jobs:
       - run: npm ci
 
       - run: npm run export
-      - run: echo "neurocomputing.systems" > ./__sapper__/export/CNAME
+      #- run: echo "neurocomputing.systems" > ./__sapper__/export/CNAME
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
