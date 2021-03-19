@@ -23,7 +23,7 @@ The world is too complex and too ambiguous to get interpreted reliably with cont
 
 <div class="flex">
 	<figure>
-		<img alt="Jörg Conradt" src="/jorg.jpg">
+		<img alt="Jörg Conradt" src="jorg.jpg">
 		<figcaption>Jörg Conradt</figcaption>
 	</figure>
 	<p>
@@ -37,7 +37,7 @@ The world is too complex and too ambiguous to get interpreted reliably with cont
 
 <div class="flex">
 	<figure>
-		<img alt="Jörg Conradt" src="/jorg.jpg">
+		<img alt="Jörg Conradt" src="jorg.jpg">
 		<figcaption>Jörg Conradt</figcaption>
 	</figure>
 	<p>

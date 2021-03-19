@@ -53,6 +53,6 @@ and how do we decide what we do and how we do it in the world around us?</p>
 <br/><br/>
 
 <figure>
-	<img alt="KTH Royal Institute of Technology" src="/kthlogo.png">
-	<img alt="Neurocomputing Systems" src="/ncs.png">
+	<img alt="KTH Royal Institute of Technology" src="kthlogo.png">
+	<img alt="Neurocomputing Systems" src="ncs.png">
 </figure>
