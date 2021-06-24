@@ -37,10 +37,10 @@
 </style>
 
 <svelte:head>
-	<title>Neurocomputing Systems lab</title>
+	<title>Neurocomputing Systems</title>
 </svelte:head>
 
-<h1>Neurocomputing Systems lab</h1>
+<h1>Neurocomputing Systems</h1>
 <hr/>
 <h2>Neural principles for real-time system engineering</h2>
 <hr/>
@@ -49,7 +49,7 @@
 and how do we decide what we do and how we do it in the world around us?</p>
 
 <p>We push the bondaries for real-time and energy efficient neural engineering.</p>
-
+lab
 <br/><br/>
 
 <figure>
